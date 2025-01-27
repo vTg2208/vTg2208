@@ -3,7 +3,7 @@
 👀 About Me:
 - I’m deeply interested in solving problems, writing clean code, and the occasional debugging adventures (read: staring at the screen for hours).
 - Passionate about technology, algorithms, and making things that just work (™).
-- 
+  
 🌱 Currently Learning:
 - Flutter – bringing my ideas to life on screens of all sizes.
 - Data Structures and Algorithms – because why not over-optimize everything?
