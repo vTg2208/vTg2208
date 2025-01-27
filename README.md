@@ -16,7 +16,7 @@
 📫 How to Reach Me:
 - Shoot me a message here or catch me at: [theegelavishnuvardhan22@gmail.com].
 - Fun fact: I’m likely to respond faster to code reviews than to texts. 😅
-- 
+  
 😄 Pronouns:
 - Code Wizard (Just kidding: He/Him)
 
